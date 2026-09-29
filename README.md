@@ -37,4 +37,4 @@ Not built yet.
 ---
 
 **Author:** Miriyala Durga Rao
-[LinkedIn](https://www.linkedin.com/in/miriyala-durgarao) · [Portfolio](https://edgeguard-chronicle.lovable.app)
+[LinkedIn](https://www.linkedin.com/in/miriyala-durgarao) · [Portfolio](https://mdurgarao-tech.github.io)
